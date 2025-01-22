@@ -48,5 +48,3 @@ The framework provides abstract base classes for implementing new platform integ
 - `BaseSupportAdapter`: For ticketing system integration
 - `BaseKnowledgeConnector`: For knowledge base integration
 
-## License
-[License details to be added]
