@@ -1,0 +1,50 @@
+# Core dependencies
+crewai>=0.1.0
+langchain>=0.1.0
+python-dotenv>=1.0.0
+
+# Async HTTP client for API interactions
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# Type hints support
+typing-extensions>=4.8.0
+
+# Vector storage (choose based on your needs)
+pinecone-client>=2.2.0
+weaviate-client>=3.24.0
+
+# Utility packages
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# API clients for different platforms
+# Freshdesk
+python-freshdesk>=1.3.0
+
+# ServiceNow - Using basic aiohttp
+
+# Zendesk
+zenpy>=2.0.25
+
+# Knowledge base connectors
+# Confluence
+atlassian-python-api>=3.41.0
+
+# Notion
+notion-client>=2.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# Development tools
+black>=23.0.0
+flake8>=6.1.0
+isort>=5.12.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+playwright>=1.40.0 
